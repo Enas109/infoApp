@@ -27,5 +27,8 @@
         "platforms": [
             "ios"
         ]
-    }
+    },
+    "scripts": {
+    "start": "node your-script.js"
+}
 }
